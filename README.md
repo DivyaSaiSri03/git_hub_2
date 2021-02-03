@@ -14,5 +14,5 @@ my second project
  - cofee
  - tea
  - milk
-how to open hyper limits [apssdc]("http://www.apssdc.in)
-[ciet college](http://www.chalapathiengg.ac.in/)
+how to open hyper links [apssdc](https://www.apssdc.in)
+[ciet college](https://www.chalapathiengg.ac.in/)
